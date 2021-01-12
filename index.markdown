@@ -5,6 +5,6 @@
 layout: home
 ---
 
-### Introduction to image processing
+### Mathematical models for image processing
 
-This course provides an overview of image processing, emphasizing mathematical description and models used for various applications.
+This course provides an overview of some mathematical techniques, PDE's and optimization models, used for various applications in image processing.
