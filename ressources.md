@@ -5,7 +5,7 @@ key: page-about
 ---
 
 ### Course web page: 
-- <https://hachama.github.io/img/>
+- <https://hachama.github.io/pde/>
 
 ### Similar Courses: 
 
