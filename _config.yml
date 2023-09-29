@@ -25,7 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/pde" # the subpath of your site, e.g. /blog
 url: "https://github.com/hachama" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-# github_username:  jekyll
+github_username:  hachama.github.io
+
 
 # Build settings
 theme: minima
