@@ -5,15 +5,12 @@
 layout: home
 ---
 
-### UEF511 Partial Differential Equations
+## UEF511 Partial Differential Equations
 
 This course serves as an introductory guide to mastering the techniques required for solving partial differential equations (PDEs). It acquaints readers with PDEs originating from diverse domains within engineering and the natural sciences. The course content encompasses the following subjects: First Order PDEs, Second Order PDEs, Separation of Variables, Integral Transforms, and the three fundamental categories of PDEs (Hyperbolic, Parabolic, and Elliptic). To enhance comprehension and reinforce the concepts introduced in each chapter, exercises are included at the end of each chapter.
 
 
-### References
-
-* gg
-* gg
+## References
 
 - David. Bleecker, Basic Partial Differential Equations, Chapman and Hall/CRC, 2018.
 - Daniel Arrigo, An Introduction to Partial Differential Equations, Second Edition, Springer, 2023.
