@@ -16,5 +16,4 @@ key: page-about
 - Walter A. Strauss, Partial Differential Equations, An Introduction, Second Edition, 2008 John Wiley \& Sons, 2008.
 - E.C. Zachmanoglou and Dale W. Thoe, Introduction to Partial Differential Equations with Applications (Dover Books on Mathematics), 1987.
 - Endre Pap, Arpad Takači, Djurdjica Takači , Partial Differential Equations through Examples and Exercises, Springer Dordrecht, 2012
-- Daniel Arrigo, An Introduction to Partial Differential Equations, Second Edition, Springer, 2023.
-- Hervé Reinhard,  Equations aux dérivées partielles, Dunod, 1987.
+-  Lawrence C. Evans, Partial Differential Equations, Second Edition, American Mathematical Society, 2010.
