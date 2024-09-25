@@ -15,9 +15,3 @@ To provide a comprehensive overview of PDEs, we will explore a range of equation
 
 By the end of this course, you will have gained a solid understanding of how PDEs are formulated in various contexts and how to approach solving them using both classical andmodern techniques.
 
-# Textbooks:
-1. Walter A. Strauss, Partial Differential Equations, An Introduction, Second Edition, 2008 John Wiley & Sons, 2008.
-2. E.C. Zachmanoglou and Dale W. Thoe, Introduction to Partial Differential Equations with Applications (Dover Books on Mathematics), 1987.
-3. Endre Pap, Arpad Takači, Djurdjica Takači , Partial Differential Equations through Examples and Exercises, Springer Dordrecht, 2012
-4. Lawrence C. Evans, Partial Differential Equations, Second Edition, American Mathematical Society, 2010.
-
