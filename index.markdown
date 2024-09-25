@@ -13,5 +13,5 @@ In many scientific disciplines, both pure and applied, the objectives can often 
 
 To provide a comprehensive overview of PDEs, we will explore a range of equations including: First-order PDEs, using methods such as Lagrange’s method and the method of characteristics; The Laplace and Poisson equations, fundamental to electrostatics; The diffusion equation, which models processes such as heat transfer and chemical diffusion; The wave equation, which describes the propagation of sound waves in a linear acoustical framework; Techniques like separation of variables and energy methods.
 
-By the end of this course, you will have gained a solid understanding of how PDEs are formulated in various contexts and how to approach solving them using both classical andmodern techniques.
+By the end of this course, you will have gained a solid understanding of how PDEs are formulated in various contexts and how to approach solving them using both classical andmodern techniques. 
 
